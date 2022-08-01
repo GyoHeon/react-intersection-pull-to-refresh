@@ -1,0 +1,25 @@
+{
+  "name": "react-intersection-pull-to-refresh",
+  "version": "1.0.0",
+  "description": "Fast pull to refresh using IntersectionObserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GyoHeonLee/react-intersection-pull-to-refresh.git"
+  },
+  "keywords": [
+    "pull",
+    "to",
+    "refresh",
+    "react"
+  ],
+  "author": "GyoHeonLee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GyoHeonLee/react-intersection-pull-to-refresh/issues"
+  },
+  "homepage": "https://github.com/GyoHeonLee/react-intersection-pull-to-refresh#readme"
+}
